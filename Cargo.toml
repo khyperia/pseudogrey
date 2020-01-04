@@ -1,0 +1,8 @@
+[package]
+name = "pseudogrey"
+version = "0.1.0"
+authors = ["khyperia <github@khyperia.com>"]
+edition = "2018"
+
+[dependencies]
+png = "*"
